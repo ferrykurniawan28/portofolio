@@ -62265,8 +62265,8 @@ if(r==null){r=self.window.devicePixelRatio
 if(r===0)r=1}this.ax.sm(0,B.c.Z(s.cQ(0,r).a))
 this.bQ(0)},
 HY(){var s=document.createElement("a")
-s.href="assets/docs/cv.pdf"
-s.download="cv.pdf"
+s.href="assets/docs/CV.pdf"
+s.download="CV.pdf"
 s.click()},
 qt(a){var s=window.navigator.clipboard.writeText(a)
 s.toString
