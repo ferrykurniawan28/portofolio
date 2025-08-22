@@ -4768,7 +4768,7 @@ class CompiledApp {
 "assets/images/image.JPG",
 "contain",
 "Hello, I'm Ferry 👋",
-"I'm a sixth semester Undergraduate Computer Engineering Student at Binus University, Jakarta. I'm passionate about Mobile App Development and IoT",
+"I'm a final-year Undergraduate Computer Engineering Student at Binus University, Jakarta. I'm passionate about Mobile App Development and IoT",
 "assets/images/location.png",
 "Jakarta, Indonesia",
 "Available for Job Opportunity",
